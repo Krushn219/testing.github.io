@@ -1,0 +1,6 @@
+.navbar-main-div{
+  width: 13%;
+}
+.body-db-wrapper{
+  width: calc(100% - 13%);
+}
